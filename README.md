@@ -1,6 +1,6 @@
 ## Olá, eu sou a Renata Schramm 👋🤍
 ### Bem vindo ao meu perfil!!
-#### Sou uma estudante de desenvolvimento de sistemas iniciante focada em aprender e aprimorar meus conhecimentos.
+#### Sou uma estudante de desenvolvimento de sistemas focada em aprender e aprimorar meus conhecimentos. 
 ## Você pode me contatar em:
 
 <div>
@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/renataschram/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"_blank"></a>
   </div>
 
- ### 📚 Estou estudando no momento Java e SQL.
+ ### 📚 Estou estudando no momento Java.
   
 
 <div>
