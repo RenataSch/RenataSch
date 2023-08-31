@@ -1,6 +1,6 @@
 ## Olá, eu sou a Renata Schramm 👋🤍
 ### Bem vindo ao meu perfil!!
-#### Sou uma estudante de desenvolvimento de sistemas focada em aprender e aprimorar meus conhecimentos. 
+#### Sou uma estudante de desenvolvimento de sistemas focada em aprender e aprimorar meus conhecimentos. Comecei meus estudos em Java mas aos poucos predendo expandir meus conhecimentos com várias linguagens.
 ## Você pode me contatar em:
 
 <div>
