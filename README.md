@@ -1,6 +1,7 @@
 <div align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73131&background=FFFFFF00&width=435&height=53&lines=welcome+to+my+profile!+;My+name+is+Renata+Schramm" alt="Typing SVG" /></a>
 </div>
+
 ## Olá, eu sou a Renata Schramm 👋🤍
 ### Bem vindo ao meu perfil!!
 #### Sou uma estudante de desenvolvimento de sistemas focada em aprender e aprimorar meus conhecimentos. Comecei meus estudos em Java mas aos poucos predendo expandir meus conhecimentos com várias linguagens.
