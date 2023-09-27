@@ -16,7 +16,7 @@
  ### 📚 Estou estudando no momento Java e HTML.
   
 
-<div align="center">  
+<div>  
  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataSch&layout=compact&hide_border=true&title_color=ffffff&text_color=f6f5f4&bg_color=0d1117" />
    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenataSch&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=01C231&text_color=f6f5f4&bg_color=0d1117" alt="Renata Schramm github stats" /> 
