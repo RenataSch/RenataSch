@@ -1,5 +1,5 @@
 <div align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F73131&background=FFFFFF00&width=435&height=53&lines=welcome+to+my+profile!+;My+name+is+Renata+Schramm" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F73131&background=FFFFFF00&width=435&height=53&lines=welcome+to+my+profile!+;My+name+is+Renata+Schramm" alt="Typing SVG" /></a>
 </div>
 
 ## Olá, eu sou a Renata Schramm 👋🤍
