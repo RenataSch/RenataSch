@@ -7,6 +7,8 @@
 #### Sou uma estudante de desenvolvimento de sistemas focada em aprender e aprimorar meus conhecimentos. Comecei meus estudos em Java mas aos poucos predendo expandir meus conhecimentos com várias linguagens.
 ## Você pode me contatar em:
 
+![Snake animation](https://github.com/gbrogio/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <div>
   <a href="https://www.linkedin.com/in/renata-schramm-9261b5226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
   <a href = "mailto:renataschramm113474@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
