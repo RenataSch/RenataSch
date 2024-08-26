@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/renataschram/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"_blank"></a>
   </div>
 
- ### 📚 Estou estudando no momento Java.
+ ### 📚 Estou estudando no momento...
   
 
 <div>  
